@@ -68,7 +68,7 @@ Start your Streamlit app:
 streamlit run app.py
 
 
-Then open the provided local URL (usually http://localhost:8501
+Then open the provided local URL (usually http://localhost:8505
 ).
 
 🧠 Example Output
